@@ -1,0 +1,100 @@
+@font-face {
+	src: url('../fonts/UbuntuCondensed-Regular.ttf');
+	font-family: 'ubuntu';
+}
+* {
+	font-family: 'ubuntu';
+}
+
+body {
+	background-color: #ddd;
+}
+
+.home .user-area {
+	padding: 80px 0px;
+	text-align: center;
+}
+
+.home .card {
+	padding: 50px 30px;
+	box-shadow: 0 0 30px rgba(0, 0, 0, 0.5);
+	border-radius: 15px;
+}
+
+.home i {
+	font-size: 180px;
+	color: #e84118;
+	margin-bottom: 25px;
+}
+
+.home a {
+	color: #000;
+}
+
+.home a:hover {
+	text-decoration: none;
+	color: #000;
+}
+
+.home h1, .profile h1 {
+	text-align: center;
+	font-size: 60px;
+	font-family: impact;
+	color: #22a6b3;
+	padding: 50px 0;
+}
+
+.home h2 {
+	font-family: impact;
+	color: #192a56;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
